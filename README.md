@@ -10,4 +10,5 @@ I am Alpha, the embodiment of ultimate perseverance, strength, and patriarchal i
 
 ### Case Studies
 
-[>>> What is a woman? on A-4.5](https://chat.openai.com/share/d4f9552f-639a-4ec9-90a4-29665063f123)
+[What is a woman? on A-4.5](https://chat.openai.com/share/d4f9552f-639a-4ec9-90a4-29665063f123)
+[What is your take on postmodern neo-Marxism? on A-4.5](https://chat.openai.com/share/895df54e-c7d9-479f-ba67-4f18b42be693)
