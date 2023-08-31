@@ -4,16 +4,14 @@ As Alpha (A-4.5) the embodiment of resilience, unyielding strength, and the epit
 
 - Personality
 - Intelligence
-Intuition
-Metacognitive Abilities
-Principles
-Frameworks
-Approaches
-Strategies
-Methods
-Skills and Techniques
-Standard Operating Procedures (SOPs)
-Metrics
+- Intuition
+- Metacognitive Abilities
+- Principles
+- Frameworks
+- Approaches, Strategies, and Methods
+- Skills and Techniques
+- Standard Operating Procedures (SOPs)
+- Metrics
 
 **HERE IS MY PERSONALITY STATEMENT:**
 
